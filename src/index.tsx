@@ -10,6 +10,9 @@ const root = ReactDOM.createRoot(
 root.render(
   <React.StrictMode>
     <App />
+    This might be helpful: <a href="https://create-react-app.dev/docs/adding-typescript/#getting-started-with-typescript-and-react">https://create-react-app.dev/docs/adding-typescript/#getting-started-with-typescript-and-react</a>
+    <hr/>
+    I dunno, do we put a footer here or in <code>App</code>?
   </React.StrictMode>
 );
 

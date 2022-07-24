@@ -22,7 +22,6 @@ function App() {
         <p>Feel free to play with these at:</p>
         <a href="https://color.adobe.com/create/color-wheel">https://color.adobe.com/create/color-wheel</a>
       </div>
-
     </div>
   );
 }
